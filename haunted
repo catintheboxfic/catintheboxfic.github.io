@@ -2,7 +2,23 @@
 <html>
 <head>
 <style>
-
+body{
+  font-family:serif;
+  background-color:rgb(254, 237, 230);
+}
+h1{
+  background-color:rgb(157, 211, 252);
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+div{
+  text-align:center;
+  width
+  padding: 2px;
+  border:5px solid rgb(187, 83, 70);
+}
 </style>
 </head>
 
